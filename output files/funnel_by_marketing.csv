@@ -1,0 +1,17 @@
+event,marketing,marketing,conversion_rate,drop_off
+home_page,paid_ads,1328,1.0,64.0
+home_page,email,1264,0.9518072289156626,60.0
+home_page,organic,1204,0.9066265060240963,0.0
+home_page,referral,1204,0.9066265060240963,242.0
+product_view,email,962,0.7243975903614458,15.0
+product_view,referral,947,0.7131024096385542,24.0
+product_view,organic,923,0.6950301204819277,17.0
+product_view,paid_ads,906,0.6822289156626506,404.0
+add_to_cart,paid_ads,502,0.37801204819277107,27.0
+add_to_cart,referral,475,0.35768072289156627,5.0
+add_to_cart,email,470,0.3539156626506024,33.0
+add_to_cart,organic,437,0.32906626506024095,291.0
+checkout,paid_ads,146,0.10993975903614457,26.0
+checkout,organic,120,0.09036144578313253,1.0
+checkout,email,119,0.08960843373493976,6.0
+checkout,referral,113,0.08509036144578314,

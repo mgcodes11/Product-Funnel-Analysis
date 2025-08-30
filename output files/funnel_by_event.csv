@@ -1,0 +1,5 @@
+event,users,conversion_rate,drop_off
+home_page,5000,1.0,1262.0
+product_view,3738,0.7476,1854.0
+add_to_cart,1884,0.3768,1386.0
+checkout,498,0.0996,

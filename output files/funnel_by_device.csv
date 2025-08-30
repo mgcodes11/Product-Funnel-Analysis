@@ -1,0 +1,13 @@
+event,device_type,device,conversion_rate,drop_off
+home_page,mobile,1740,1.0,92.0
+home_page,tablet,1648,0.9471264367816092,36.0
+home_page,laptop,1612,0.9264367816091954,345.0
+product_view,tablet,1267,0.7281609195402299,13.0
+product_view,mobile,1254,0.7206896551724138,37.0
+product_view,laptop,1217,0.6994252873563218,573.0
+add_to_cart,tablet,644,0.3701149425287356,8.0
+add_to_cart,laptop,636,0.36551724137931035,32.0
+add_to_cart,mobile,604,0.3471264367816092,425.0
+checkout,tablet,179,0.1028735632183908,17.0
+checkout,mobile,162,0.09310344827586207,5.0
+checkout,laptop,157,0.09022988505747126,
